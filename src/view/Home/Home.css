@@ -1,0 +1,23 @@
+body{
+    background-color: #666666;
+    color: white;
+}
+.app-title{
+    text-align: center;
+}
+.search-bar{
+    display: block;
+    margin:50px auto;
+    width: 500px;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 50px;
+    }
+
+.Temerature-text{
+    text-align: center;
+    font-size: 30px;
+}
+.message-text{
+    text-align: center;
+}
